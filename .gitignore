@@ -1,0 +1,6 @@
+todo.md
+*.csv
+*.json
+.maxid_*
+config.cfg
+venv/
